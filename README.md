@@ -1,2 +1,1 @@
-# HCI-Project
-Online Notepad
+# Online-Digital-Notepad-Application
